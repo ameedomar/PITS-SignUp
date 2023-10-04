@@ -1,0 +1,24 @@
+.title {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #135f8b;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.messages {
+  color: #04aa6d;
+}
+.myform {
+  display: flex;
+  justify-content: space-between;
+  max-width: 40%;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+.btns {
+  margin-top: 50px;
+}
